@@ -15,7 +15,7 @@ checking specs, here are the steps to installing on IIS
 	10. Pip install Flask
 	11. Pip install -r requirements.txt
 	12. Open IIS
-	13. Create new site for specchecker
+	13. [Create new site for specchecker](https://imgur.com/a/qliUdYf)
   14. Handler mappings > add module mapping
   15. Application settings > set 2 vars
   16. Tool will be available at localhost\tool
