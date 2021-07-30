@@ -23,3 +23,4 @@ checking specs, here are the steps to installing on IIS
 ![13. Create new site for specchecker](https://user-images.githubusercontent.com/33534161/127656369-4d3dd48e-e884-4f26-9960-8ac33dfc6249.png)
 ![14.Handler Mappings > add module mappings](https://user-images.githubusercontent.com/33534161/127656219-3c259494-883c-4121-af06-c87724a06132.png)
 ![15. Application Settings > set 2 vars](https://user-images.githubusercontent.com/33534161/127656279-5d674bb9-8a14-425e-b6c6-b3a3d9a6c7bc.png)
+![image](https://user-images.githubusercontent.com/33534161/127656499-f72de272-c93f-4b42-abad-0e0f23c8f727.png)
