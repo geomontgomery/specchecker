@@ -1,6 +1,7 @@
 # specchecker
-checking specs
-Steps installing on IIS
+
+checking specs, here are the steps to installing on IIS
+```bash
 	1. Install python to c:\python39\
 	2. c:\ mkdir pythonsites, cd pythonsites
 	3. Confirm python --version
@@ -18,3 +19,4 @@ Steps installing on IIS
   14. Handler mappings > add module mapping
   15. Application settings > set 2 vars
   16. Tool will be available at localhost\tool
+```
