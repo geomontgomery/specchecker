@@ -13,7 +13,7 @@ wsgi_app=flask_app.wsgi_app
 @flask_app.route("/")
 def flask_main():
     name = request.args.get("name", "World")
-    return f"Hello, {escape(name)} from Flask!"
+    return f"Hi, {escape(name)}, please navigate to /tool to use the app."
 
 flask_app.add_url_rule('/tool', 'webio_view,', webio_view(checkprj), methods=['GET','POST','OPTIONS'])
 
