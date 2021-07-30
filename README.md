@@ -20,3 +20,6 @@ checking specs, here are the steps to installing on IIS
   15. Application settings > set 2 vars
   16. Tool will be available at localhost\tool
 ```
+![13. Create new site for specchecker](https://imgur.com/a/qliUdYf)
+![14.Handler Mappings > add module mappings](https://user-images.githubusercontent.com/33534161/127656219-3c259494-883c-4121-af06-c87724a06132.png)
+![15. Application Settings > set 2 vars](https://user-images.githubusercontent.com/33534161/127656279-5d674bb9-8a14-425e-b6c6-b3a3d9a6c7bc.png)
